@@ -29,7 +29,9 @@ This course was a relatively short and compact introduction of the command line 
 ### Week 5
 * Week 5 was about scripting and configuration files.
 
-![alt text](~/KIK-LG219/final_assignment/mypage/shilosuo.github.io/assets/images/script_comparative.PNG)
+![script to make comparative forms](/assets/images/script_comparative.PNG)
+
+The picture shows a script that turns an adjective into its comparative form.
 
 ### Week 6
 * Week 6 was about installing software, package managers and Makefiles. 
