@@ -8,7 +8,7 @@ layout: default
 
 ## Find me on
 
-[GitHub](https://github.com/shilosuo)
+[My CV](https://www.overleaf.com/read/pmvptvsbbmgg), [GitHub](https://github.com/shilosuo)
 
 ## Contact
 
